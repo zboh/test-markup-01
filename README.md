@@ -12,6 +12,7 @@ All rights on this design belong to it's creators.
 (I've left original copyright mark which I found in design file)
 
 Several things to fix:
-- [ ] I've found an text-rotate issue on chrome (i'm on macOS)
-- [ ] problem with news-cards to fix
-- [ ] minor respons. fixes to be done
+- [x] I've found an text-rotate issue on chrome (i'm on macOS)
+- [x] problem with news-cards to fix
+- [x] minor respons. fixes to be done
+- [x] menu items linked to diff page segments
