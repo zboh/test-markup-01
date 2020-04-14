@@ -125,9 +125,16 @@ a {
 }
 
 .text-rotate-2 {
-  writing-mode: vertical-rl;
+  /* writing-mode: vertical-rl;
   text-align: left;
-  padding-left: 0.25rem;
+  padding-left: 0.25rem; */
+  position: absolute;
+  ;
+  /* top: 8%; */
+  left: 108%;
+  transform-origin: 0 0;
+  transform: rotate(90deg);
+  width: 5rem;
 }
 
 
