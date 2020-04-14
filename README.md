@@ -4,7 +4,9 @@ after learning HTML/CSS for couple of months and participating in one comertial 
 I've decided to endoll for a marckup-dev job offer. 
 
 This design was a test to prove I was qualified for job. 
+
 It took me 31:39:33 to finish this markup. 
+
 _(please, take in consideration: prior to this job-test, I wasn't practising markup for about 4 months,
 so I had to re-investigare several concepts)_
 
